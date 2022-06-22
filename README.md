@@ -1,2 +1,3 @@
 # README #
-learning the github basics
+learning the github basics.
+Learning is the best.
